@@ -2,7 +2,7 @@
 name: "Nilabh Nishchhal"
 title: "Nilabh's Blogs"
 description: "Learn Python, Data Science and Tech from blog, free for Learners."
-logo: 'assets/images/logo.jpg'
+logo: 'assets/images/logo_nn_small.png'
 favicon: 'assets/images/logo.jpg'
 baseurl: /Nilabh-Blogs
 google_analytics: 'UA-46278016-1'
