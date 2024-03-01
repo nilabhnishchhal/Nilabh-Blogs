@@ -5,7 +5,7 @@ author: Nilabh
 date: 2024-02-24
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
-image: assets/images/nilabh_nishchhal.jpg
+image: assets/images/Python_Programming_Basics.png
 description: "Python Course for beginners who have data or coding background. Quick recap course."
 featured: true
 hidden: true
@@ -210,6 +210,10 @@ As Alice continues her journey in the mystical DataLand, she learns to control t
 ### If-Else Statements: Choosing Paths
 
 ![Flowchart of If-Else Statement](/Nilabh-blogs/assets/images/flowcharts-if_else_flowchart.jpg)
+![Flowchart of If-Else Statement](Nilabh-blogs/assets/images/flowcharts-if_else_flowchart.jpg)
+![Flowchart of If-Else Statement](/assets/images/flowcharts-if_else_flowchart.jpg)
+![Flowchart of If-Else Statement](assets/images/flowcharts-if_else_flowchart.jpg)
+
 
 In DataLand, Alice often encounters crossroads where she must make choices. In Python, we use if-else statements to make decisions.
 
