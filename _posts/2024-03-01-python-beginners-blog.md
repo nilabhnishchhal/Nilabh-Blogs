@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Python Course for Beginners"
-author: Nilabh Nishchhal
+author: Nilabh
 date: 2024-02-24
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
