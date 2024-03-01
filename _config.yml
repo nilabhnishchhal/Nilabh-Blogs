@@ -1,9 +1,9 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+name: "Nilabh Nishchhal"
+title: "Nilabh's Blogs"
+description: "Learn Python, Data Science and Tech from blog, free for Learners."
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/logo.jpg'
 baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -13,14 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  Nilabh:
+    name: Nilabh Nishchhal
+    display_name: Nilabh Nishchhal
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: nilabhnishchhal@gmail.com
+    web: https://authornilabh.com
+    twitter: https://twitter.com/nilabhnishchhal
+    description: "Author of Python Made Easy and PHD Scholar at IIM Jammu."
   john:
     name: John
     display_name: John    
