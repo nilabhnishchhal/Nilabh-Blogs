@@ -5,7 +5,7 @@ author: Nilabh
 date: 2024-02-24
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
-image: assets/images/Python_Programming_Basics.png
+image: assets/images/nilabh_nishchhal.jpg
 description: "Python Course for beginners who have data or coding background. Quick recap course."
 featured: true
 hidden: true
