@@ -214,7 +214,7 @@ As Alice continues her journey in the mystical DataLand, she learns to control t
 ![Flowchart of If-Else Statement](/assets/images/flowcharts-if_else_flowchart.jpg)
 ![Flowchart of If-Else Statement](assets/images/flowcharts-if_else_flowchart.jpg)
 ![Flowchart of If-Else Statement](flowcharts-if_else_flowchart.jpg)
-![Flowchart of If-Else Statement]({{ site.baseurl }}/assets/flowcharts-if_else_flowchart.jpg)
+![Flowchart of If-Else Statement]({{site.baseurl}}/assets/flowcharts-if_else_flowchart.jpg)
 
 
 
