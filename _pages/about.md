@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Nilabh's Tech Blog
 permalink: /about
 comments: true
 ---
