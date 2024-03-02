@@ -1,19 +1,24 @@
 ---
-title: |
-  pandoc -s Chapter_1\_What_is_data_visualisation.docx -t markdown -o
-  example.md
+layout: post
+title: "What is Data Visualization"
+author: Nilabh
+date: 2024-02-01
+categories: [ Visualization, Data ]
+tags: [visualization, data]
+image: assets/images/the_last_supper_dall_e.png
+description: "An Introduction to Data Visualisation, and it's History"
+featured: true
+hidden: true
 
-  Chapter_1\_What_is_data_visualisation
 ---
 
-# Chapter 1: Introduction to Data Visualization[¶](#chapter-1-introduction-to-data-visualization)
-
-## Why Do We Need to Visualize the Data?[¶](#why-do-we-need-to-visualize-the-data)
+# Why Do We Need to Visualize the Data?
 
 *\"The simple act of visualizing data, even in the brain, makes a
 difference to how we interpret and understand it.\"* - David McCandless,
 author of \"Information is Beautiful\".
 
+## Why Do We Need to Visualize the Data?
 In a bustling marketplace in ancient Rome, merchants called out the
 prices of their wares, relying on the spoken word to convey information.
 But as societies grew complex and the amount of information exploded, it
@@ -40,9 +45,8 @@ infinitely more manageable. This is the power of data visualization. It
 turns abstract numbers into a form the human brain can understand,
 process, and act upon efficiently.
 
-![](media/image1.png){width="6.5in" height="6.5in"}
-
-There is a paper with a spreadsheet in the left hand and an iPad with
+![](/assets/images/paper_vs_tab_dall_e.png){width="6.5in" height="6.5in"}
+Image Description:There is a paper with a spreadsheet in the left hand and an iPad with
 colourful data visualizations in the right hand -- Image Created by the
 author using DALL·E 3.
 
