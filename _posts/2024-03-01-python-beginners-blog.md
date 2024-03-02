@@ -3,8 +3,8 @@ layout: post
 title: "Python Course for Beginners"
 author: Nilabh
 date: 2024-02-24
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+categories: [ Python, Visualization, Data ]
+tags: [python, visualization, data]
 image: assets/images/Python_Programming_Basics.png
 description: "Python Course for beginners who have data or coding background. Quick recap course."
 featured: true
