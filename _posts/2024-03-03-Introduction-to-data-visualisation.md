@@ -50,6 +50,9 @@ Image Description:There is a paper with a spreadsheet in the left hand and an iP
 colourful data visualizations in the right hand -- Image Created by the
 author using DALL·E 3.
 
+<img src="/Nilabh-Blogs/assets/images/paper_vs_tab_dall_e.png" alt="Spreadsheet vs Visuals HTML" width="200" height="100" style="float: right; margin-left: 10px;">
+
+
 Let me take you to an imaginary but picturesque town of Eldoria, nestled
 among rolling hills and serene lakes. There lived a librarian named
 Elara. Eldoria\'s library was not ordinary---it was the town\'s pride,
