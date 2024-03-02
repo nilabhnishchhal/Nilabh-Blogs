@@ -235,7 +235,7 @@ Here, if the `magic_number` is greater than 5, Alice takes one path; otherwise, 
 
 ### For Loops: Repeating Adventures
 
-![Flowchart of for Loop](/Nilabh-blogs/assets/images/flowcharts-for_loop.jpg)
+![Flowchart of for Loop](/Nilabh-Blogs/assets/images/flowcharts-for-loop.jpg)
 
 Sometimes, Alice likes to visit every house in a village. In Python, we use for loops to repeat actions.
 
