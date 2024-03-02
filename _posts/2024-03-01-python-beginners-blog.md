@@ -209,7 +209,7 @@ As Alice continues her journey in the mystical DataLand, she learns to control t
 
 ### If-Else Statements: Choosing Paths
 
-![Flowchart of If-Else Statement](/Nilabh-blogs/assets/images/flowcharts-if_else_flowchart.jpg)
+![Flowchart of If-Else Statement](/Nilabh-Blogs/assets/images/flowcharts-if_else_flowchart.jpg)
 ![Flowchart of If-Else Statement](Nilabh-blogs/assets/images/flowcharts-if_else_flowchart.jpg)
 ![Flowchart of If-Else Statement](/assets/images/flowcharts-if_else_flowchart.jpg)
 ![Flowchart of If-Else Statement](assets/images/flowcharts-if_else_flowchart.jpg)
