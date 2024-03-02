@@ -45,13 +45,6 @@ infinitely more manageable. This is the power of data visualization. It
 turns abstract numbers into a form the human brain can understand,
 process, and act upon efficiently.
 
-![Spreadsheet vs Visuals](/Nilabh-Blogs/assets/images/paper_vs_tab_dall_e.png){width="6.5in" height="6.5in"}
-Image Description:There is a paper with a spreadsheet in the left hand and an iPad with
-colourful data visualizations in the right hand -- Image Created by the
-author using DALL·E 3.
-
-<img src="/Nilabh-Blogs/assets/images/paper_vs_tab_dall_e.png" alt="Spreadsheet vs Visuals HTML" width="200" height="100" style="float: right; margin-left: 10px;">
-
 <figure>
   <img src="/Nilabh-Blogs/assets/images/paper_vs_tab_dall_e.png" alt="Spreadsheet vs Visuals HTML">
   <figcaption>Image Created by the author using DALL·E 3.</figcaption>
