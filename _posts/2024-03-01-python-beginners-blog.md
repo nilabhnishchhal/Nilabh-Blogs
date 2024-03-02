@@ -210,14 +210,6 @@ As Alice continues her journey in the mystical DataLand, she learns to control t
 ### If-Else Statements: Choosing Paths
 
 ![Flowchart of If-Else Statement](/Nilabh-Blogs/assets/images/flowcharts-if_else_flowchart.jpg)
-![Flowchart of If-Else Statement](Nilabh-blogs/assets/images/flowcharts-if_else_flowchart.jpg)
-![Flowchart of If-Else Statement](/assets/images/flowcharts-if_else_flowchart.jpg)
-![Flowchart of If-Else Statement](assets/images/flowcharts-if_else_flowchart.jpg)
-![Flowchart of If-Else Statement](flowcharts-if_else_flowchart.jpg)
-![Flowchart of If-Else Statement]({{site.baseurl}}/assets/flowcharts-if_else_flowchart.jpg)
-
-
-
 
 In DataLand, Alice often encounters crossroads where she must make choices. In Python, we use if-else statements to make decisions.
 
@@ -249,7 +241,7 @@ This loop helps Alice visit houses numbered from 1 to 5, one after the other.
 
 ### While Loops: Continuing Until
 
-![Flowchart of while Loop](/Nilabh-blogs/assets/images/flowcharts-while_loop.jpg)
+![Flowchart of while Loop](/Nilabh-Blogs/assets/images/flowcharts-while_loop.jpg)
 
 In some parts of DataLand, Alice walks through a forest until she finds a river. In Python, this is like a while loop, where we continue doing something until a condition is met.
 
