@@ -66,7 +66,7 @@ could show the stories and not just narrate them.\"*
 This realization is where our journey into the importance of data
 visualization begins.
 
-### The Power of Sight[¶](#the-power-of-sight)
+### The Power of Sight
 
 Imagine having to describe a sunset to someone who had never witnessed
 one. No matter how poetic or detailed your description might be, words
@@ -92,9 +92,12 @@ of pages of raw data. Imagine clubbing such plots with the corresponding
 increase in sea levels, the melting of polar ice caps, and the frequency
 of wildfires; the gravity of climate change becomes undeniable.
 
-![](media/image2.png){width="6.5in" height="2.7083333333333335in"}
+<figure>
+  <img src="/Nilabh-Blogs/assets/images/global_gis_2022_chart.png" alt="Global Temperature over the years in form of Bar Chart">
+  <figcaption>Global Temperature over the years in form of Bar Chart</figcaption>
+</figure>
 
-### Making Complex Data Understandable[¶](#making-complex-data-understandable)
+### Making Complex Data Understandable
 
 In Eldoria(our imaginary town), as the city grew, so did its records.
 Births, harvests, trade, festivals, and a myriad of other events filled
@@ -109,7 +112,7 @@ visualized using candlestick charts or trend lines, fluctuations in
 stock prices, market highs and lows, and trading volumes become
 immediately apparent.
 
-### Immediate Insights and Faster Decision Making[¶](#immediate-insights-and-faster-decision-making)
+### Immediate Insights and Faster Decision Making
 
 When the Mayor of Eldoria wanted to understand the town\'s population
 growth to plan infrastructural development, Elara took weeks poring over
@@ -134,14 +137,19 @@ become so dependent on Digital Maps and Navigation systems for visually
 representing this raw data as they present in their super popular
 applications.
 
-![A person holding a map and a phone Description automatically
-generated](media/image3.png){width="6.5in" height="3.714583333333333in"}
+<figure>
+  <img src="/Nilabh-Blogs/assets/images/digital_vs_physical_map.png" alt="A person holding a map and a phone Description automatically
+generated">
+  <figcaption>A person holding a map and a phone. Image Created by the author using Dall-E</figcaption>
+</figure>
+
 
 The image displays a close-up of a digital navigation map. At the same
 time, the other half shows an individual seeking help with a paper map.
 Image Created by the author using DALL·E 3.
 
-### Facilitating Engagement and Memory Retention[¶](#facilitating-engagement-and-memory-retention)
+### Facilitating Engagement and Memory Retention
+
 
 One summer, Eldoria faced a water crisis. Elara tried warning the
 townsfolk about decreasing water levels using data from the past. But
@@ -154,16 +162,17 @@ with and remember visual information. For businesses, this means that
 visualized data can captivate audiences, making presentations more
 impactful and persuasive.
 
-![A large wall with a painting of a river and a house Description
-automatically generated](media/image4.png){width="6.5in"
-height="3.714583333333333in"}
-
-A long roadside wall transformed into a powerful mural showcasing the
+<figure>
+  <img src="/Nilabh-Blogs/assets/images/lake_drying_with_timeline.png" alt="A large wall with a painting of a river and a house">
+  <figcaption>A long roadside wall transformed into a powerful mural showcasing the
 timeline of the town\'s lakes shrinking over the years. Distinct year
 markers emphasize the chronology. Image Created by the author using
-DALL·E 3.
+DALL·E 3.</figcaption>
+</figure>
 
-### Building a Universal Language[¶](#Building-a-Universal-Language)
+
+
+### Building a Universal Language
 
 Eldoria was a melting pot of cultures; not everyone spoke the same
 language. Yet, when Elara showcased a pictorial representation of the
@@ -188,7 +197,7 @@ the lessons from Eldoria: **For in visual tales, data finds its voice**.
 
 []{#Building-a-Universal-Language .anchor}
 
-## Brief History of Data Visualisation[¶](\l)
+## Brief History of Data Visualisation
 
 Long before the digital age\'s vast data sets and sophisticated
 visualization tools, humans have been finding ways to represent
@@ -202,12 +211,14 @@ Egyptians used hieroglyphics and maps. Centuries later, in 1786, William
 Playfair, a Scottish engineer and political economist, invented the
 line, bar, and pie charts.
 
-![](media/image5.png){width="6.5in" height="4.333333333333333in"}
+<figure>
+  <img src="/Nilabh-Blogs/assets/images/egyptian_hieroglyphs_in_wall_painting.png" alt="Ancient Egyptian gods and hieroglyphs in wall painting">
+  <figcaption>*Ancient Egyptian gods and hieroglyphs in wall painting. Image credit:
+Vladimir Melnik/Shutterstock.com*</figcaption>
+</figure>
 
-*Ancient Egyptian gods and hieroglyphs in wall painting. Image credit:
-Vladimir Melnik/Shutterstock.com*
 
-### The Middle Ages: Graphical Chronicles[¶](#the-middle-ages-graphical-chronicles)
+### The Middle Ages: Graphical Chronicles
 
 It can be contended that the earliest forms of data visualization
 appeared in the realm of cartography. Maps, serving initially as tools
@@ -225,13 +236,12 @@ The Turin Papyrus Map, dated 1150 BC, is the oldest surviving
 visualization. It illustrates the distribution of geological resources
 with quarrying information.
 
-![A collage of several pieces of wood Description automatically
-generated](media/image6.jpeg){width="6.5in"
-height="2.557638888888889in"}
+<figure>
+  <img src="https://commons.wikimedia.org/wiki/File:TurinPapyrus1.jpg" alt="Ancient Egyptian gods and hieroglyphs in wall painting">
+  <figcaption>*Fragments of Turin papyrus - an ancient Egyptian mining map (left half) for Ramesses IV's quarrying expedition, 12th century BC (New Kingdom). Source: Photograph at the Turin Museum courtesy of J. Harrell*</figcaption>
+</figure>
 
-<https://commons.wikimedia.org/wiki/File:TurinPapyrus1.jpg>
-
-however, the geographical maps alone fail to satisfy the quest of many
+However, the geographical maps alone fail to satisfy the quest of many
 in the field of data visualization, and they argue against considering
 them as forms of visual representation of data. Data visualization in
 the form we know of today was first introduced by van Langren. Michael
@@ -239,15 +249,12 @@ Florent Van Langren was a Flemish astronomer. He, in 1644, provided the
 first visual representation of statistical data in the form of a
 one-dimensional line graph.
 
-![](media/image7.png){width="6.041666666666667in" height="8.65625in"}
+<figure>
+  <img src="/Nilabh-Blogs/assets/images/langrens_pamphlet_first_visualisation.png" alt="Opening text page of van Langren's pamphlet with his graph at the foot of the page">
+  <figcaption>*Opening text page of van Langren\'s pamphlet with his graph at the foot of the page. From the digital facsimile of the copy in the Newberry Library, Chicago.*</figcaption>
+</figure>
 
-<https://www.historyofinformation.com/image.php?id=5008>
-
-Opening text page of van Langren\'s pamphlet with his graph at the foot
-of the page. From the digital facsimile of the copy in the Newberry
-Library, Chicago.
-
-### The Renaissance: A Period of Exploration and Discovery[¶](#the-renaissance-a-period-of-exploration-and-discovery)
+### The Renaissance: A Period of Exploration and Discovery
 
 The Renaissance, a period marked by profound intellectual growth, saw
 the advent of more advanced and accurate map-making techniques. With
@@ -261,36 +268,36 @@ Scottish engineer and political economist, is credited with inventing
 the line, bar, and pie charts. Playfair\'s visualizations transformed
 the way economic data was represented and understood.
 
-<https://inforiver.com/blog/general/visualizations-and-data-analysis-past-present-future/>
 The line chart and bar chart first appeared in 1786, and the pie chart
 and circle graph in 1801. As these concepts were so new in 1786, he had
 to describe how to read and understand them.
 
-![](media/image8.png){width="6.5in" height="2.5722222222222224in"}
+<figure>
+  <img src="/Nilabh-Blogs/assets/images/first_plots_linebarpie.png" alt="The line chart and bar chart first appeared in 1786, and the pie chart
+and circle graph in 1801">
+  <figcaption>*The line chart and bar chart first appeared in 1786, and the pie chart and circle graph in 1801*</figcaption>
+</figure>
 
 The best-known example of Playfair\'s work is his comparison of the
 price of wheat to wages to establish a link between the cost of living
 and the average pay of workers.
+<figure>
+  <img src="/Nilabh-Blogs/assets/images/playfair-comparison-of-price-of-wheat-to-wages.png" alt="The line chart and bar chart first appeared in 1786, and the pie chart
+and circle graph in 1801">
+  <figcaption>*Playfair\'s comparison of the price of wheat to wages*</figcaption>
+</figure>
 
-*Playfair\'s comparison of the price of wheat to wages*
 
 Playfair also apprenticed with James Watt, the inventor of the modern
 steam engine.
 
-In 1805, he remarked, \"*Whatever can be expressed in numbers may be
-expressed by lines*\". He also wrote that data should \"*speak to the
-eyes*\". A good data visualization, he wrote, \"*produces form and shape
-to several separate ideas which are otherwise abstract and
-unconnected*\" (from [A Real Statement of the Finances and Resources of
-Great Britain](https://catalog.hathitrust.org/Record/008719848), 1796).
-Playfair\'s work stretched to the beginning of the 19th century when
-visualization began to take off.
+In 1805, he remarked, \"*Whatever can be expressed in numbers may be expressed by lines*\". He also wrote that data should \"*speak to the eyes*\". A good data visualization, he wrote, \"*produces form and shape to several separate ideas which are otherwise abstract and unconnected*\
+Playfair\'s work stretched to the beginning of the 19th century when visualization began to take off.
 
 ### 19th Century: Statistical Graphics and Public Health
 
 The 19th century brought advancements that changed the public\'s
-perception of data. Perhaps the most famous is Dr John Snow\'s map of
-London in 1854. Amid a severe cholera outbreak, Snow plotted each case
+perception of data. Perhaps the most famous is Dr John Snow\'s map of London in 1854. Amid a severe cholera outbreak, Snow plotted each case
 on a map of London, visually identifying the water pump at Broad Street
 (now Broadwick Street) as the outbreak\'s epicentre. This visualization
 solved a public health crisis and became an iconic example of
@@ -356,17 +363,11 @@ pump. It effectively combined epidemiological data with geographical
 data to identify the cause of the outbreak and is a foundational example
 of how visualization can solve complex problems.
 
-![](media/image9.jpeg){width="6.5in" height="6.093055555555556in"}
+<figure>
+  <img src="/Nilabh-Blogs/assets/images/Snow-cholera-map.jpg" alt="Snow-cholera-map">
+  <figcaption>*Dr. John Snow's hand-drawn cholera map*</figcaption>
+</figure>
 
-![A screenshot of a map Description automatically
-generated](media/image10.png){width="6.5in"
-height="3.654166666666667in"}
-
-**Visual Example**: A side-by-side comparison of Dr. John Snow\'s
-hand-drawn cholera map and a modern, interactive heatmap of the same
-drawn by ESRI.
-<https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg>
-<https://www.arcgis.com/apps/instant/sidebar/index.html?appid=18b0e940adde49b198f2a93454a15351>
 
 Around the same period, the \"rose diagram\" by Florence Nightingale
 played a crucial role in reforming sanitary conditions during the
@@ -399,14 +400,12 @@ number of deaths, with the length of a radial line proportional to the
 number of deaths. This was a dramatic way to present data, and it
 visually demonstrated the impact of unsanitary conditions on the health
 of soldiers, which was her primary concern.
+<figure>
+  <img src="/Nilabh-Blogs/assets/images/Nightingale-mortality.jpg" alt="the rose diagram by nightangel">
+  <figcaption>*The rose diagram by Nightingale depicting mortality*</figcaption>
+</figure>
 
-![A diagram of a diagram of a war Description automatically generated
-with medium confidence](media/image11.jpeg){width="6.5in"
-height="3.5569444444444445in"}
-
-<https://en.wikipedia.org/wiki/Florence_Nightingale#/media/File:Nightingale-mortality.jpg>
-
-### 20th Century: Computers Usher in a New Era[¶](#th-century-computers-usher-in-a-new-era)
+### 20th Century: Computers Usher in a New Era
 
 The 20th century saw an exponential growth in data generation, primarily
 due to the advent of computers. An American mathematician, John Tukey,
@@ -439,8 +438,7 @@ Furthermore, with computers becoming household items, software like
 Microsoft Excel became accessible. These tools democratized data
 visualization, allowing anyone to create simple graphs and charts.
 
-### 21st Century: The Age of Interactivity[¶](#st-century-the-age-of-interactivity)
-
+### 21st Century: The Age of Interactivity
 In an era where the hum of computers is the new birdsong and the glow of
 screens the new sunlight, data is the lifeblood that flows through the
 arteries of our modern existence. We live in the 21st century---when
@@ -484,10 +482,7 @@ our ability to represent, interpret, and understand the world around us.
 As technology continues to evolve, so will our methods of visualizing
 data, promising even more insights and discoveries in the future.
 
-6.  
-
-## What is Data Visualisation?[¶](#Building-a-Universal-Language)
-
+## What is Data Visualisation?
 *\"By visualizing information, we turn it into a landscape that you can
 explore with your eyes. A sort of information map. And when you\'re lost
 in information, an information map is kind of useful.\"* - David
@@ -515,16 +510,13 @@ represent quantifiable information. On the other hand, a bar graph
 comparing deforestation rates across decades tells a specific story,
 backed by data, about the environment.
 
-![A graph showing the global forest Description automatically
-generated](media/image12.png){width="6.5in"
-height="4.128472222222222in"}Juxtapose a painting of a forest with a bar
-graph indicating decreasing forest cover over the years.
-<https://ourworldindata.org/deforestation> \@article{owid-deforestation,
-author = {Hannah Ritchie}, title = {Deforestation and Forest Loss},
-journal = {Our World in Data}, year = {2021}, note =
-{<https://ourworldindata.org/deforestation%7D> }
+<figure>
+  <img src="/Nilabh-Blogs/assets/images/Nightingale-mortality.jpg" alt="Juxtapose a painting of a forest with a bar
+graph indicating decreasing forest cover over the years">
+  <figcaption>*Deforestation and Forest Loss by author Hannah Ritchie*</figcaption>
+</figure>
 
-### Data Visualization: A Symphony of Numbers and Art[¶](#data-visualization-a-symphony-of-numbers-and-art)
+### Data Visualization: A Symphony of Numbers and Art
 
 Imagine walking into the office of statistician John Tukey in the 1970s.
 Amid stacks of research papers and the soft hum of computer servers,
@@ -546,7 +538,7 @@ chart would immediately show which month had the highest sales or if
 there was a declining trend. The visual element aids in rapid
 comprehension.
 
-### Beyond Just Pictures: The Essence of Data Visualisation[¶](\l)
+### Beyond Just Pictures: The Essence of Data Visualisation
 
 It\'s essential to understand that data visualization is not just about
 creating pretty graphics or aesthetically pleasing charts. Edward Tufte,
@@ -563,15 +555,12 @@ movement, temperature, latitude, and longitude. While this could have
 been a convoluted mass of information, Minard\'s visualization presents
 a straightforward, tragic story of a dwindling army facing harsh winter
 conditions.
+<figure>
+  <img src="/Nilabh-Blogs/assets/images/Napoleon_army_by_Minard.png" alt="Napoleon's Army by Minard">
+  <figcaption>*Napoleon's Army by Minard*</figcaption>
+</figure>
 
-![A graph with a line and text Description automatically generated with
-medium confidence](media/image13.png){width="6.5in"
-height="3.0965277777777778in"}
-
-<https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png>
-
-### How Is Data Visualization Different from Other Visualisations?[¶](#how-is-data-visualization-different-from-other-visualisations)
-
+### How Is Data Visualization Different from Other Visualisations?
 While the term \"visualization\" broadly refers to any technique used to
 create images, diagrams, or animations to communicate a message, data
 visualization deals explicitly with the representation of data. It\'s
@@ -596,7 +585,7 @@ evoke emotion, capture beauty, or challenge societal norms. Data
 visualizations, while they can also be aesthetically pleasing, primarily
 serve to inform, educate, or guide decision-making.
 
-### In the Realm of Digital Technology[¶](#in-the-realm-of-digital-technology)
+### In the Realm of Digital Technology
 
 In today\'s digital age, the distinction becomes even more pronounced
 with the rise of Virtual Reality (VR) and Augmented Reality (AR). These
