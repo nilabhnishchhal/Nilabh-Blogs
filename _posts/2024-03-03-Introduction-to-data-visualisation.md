@@ -47,7 +47,7 @@ process, and act upon efficiently.
 
 <figure>
   <img src="/Nilabh-Blogs/assets/images/paper_vs_tab_dall_e.png" alt="Spreadsheet vs Visuals HTML">
-  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;">Image Created by the author using DALL·E 3.</figcaption>
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">Image Created by the author using DALL·E 3.</figcaption>
 </figure>
 
 Let me take you to an imaginary but picturesque town of Eldoria, nestled
@@ -94,7 +94,7 @@ of wildfires; the gravity of climate change becomes undeniable.
 
 <figure>
   <img src="/Nilabh-Blogs/assets/images/global_gis_2022_chart.png" alt="Global Temperature over the years in form of Bar Chart">
-  <figcaption>Global Temperature over the years in form of Bar Chart</figcaption>
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">Global Temperature over the years in form of Bar Chart</figcaption>
 </figure>
 
 ### Making Complex Data Understandable
@@ -140,7 +140,7 @@ applications.
 <figure>
   <img src="/Nilabh-Blogs/assets/images/digital_vs_physical_map.png" alt="A person holding a map and a phone Description automatically
 generated">
-  <figcaption>A person holding a map and a phone. Image Created by the author using Dall-E</figcaption>
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">A person holding a map and a phone. Image Created by the author using Dall-E</figcaption>
 </figure>
 
 
@@ -164,7 +164,7 @@ impactful and persuasive.
 
 <figure>
   <img src="/Nilabh-Blogs/assets/images/lake_drying_with_timeline.png" alt="A large wall with a painting of a river and a house">
-  <figcaption>A long roadside wall transformed into a powerful mural showcasing the
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">A long roadside wall transformed into a powerful mural showcasing the
 timeline of the town\'s lakes shrinking over the years. Distinct year
 markers emphasize the chronology. Image Created by the author using
 DALL·E 3.</figcaption>
@@ -213,7 +213,7 @@ line, bar, and pie charts.
 
 <figure>
   <img src="/Nilabh-Blogs/assets/images/egyptian_hieroglyphs_in_wall_painting.png" alt="Ancient Egyptian gods and hieroglyphs in wall painting">
-  <figcaption>*Ancient Egyptian gods and hieroglyphs in wall painting. Image credit:
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">*Ancient Egyptian gods and hieroglyphs in wall painting. Image credit:
 Vladimir Melnik/Shutterstock.com*</figcaption>
 </figure>
 
@@ -238,7 +238,7 @@ with quarrying information.
 
 <figure>
   <img src="/Nilabh-Blogs/assets/images/TurinPapyrus1.jpg" alt="Ancient Egyptian gods and hieroglyphs in wall painting">
-  <figcaption>*Fragments of Turin papyrus - an ancient Egyptian mining map (left half) for Ramesses IV's quarrying expedition, 12th century BC (New Kingdom). Source: Photograph at the Turin Museum courtesy of J. Harrell*</figcaption>
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">Fragments of Turin papyrus - an ancient Egyptian mining map (left half) for Ramesses IV's quarrying expedition, 12th century BC (New Kingdom). Source: Photograph at the Turin Museum courtesy of J. Harrell</figcaption>
 </figure>
 
 However, the geographical maps alone fail to satisfy the quest of many
@@ -251,7 +251,7 @@ one-dimensional line graph.
 
 <figure>
   <img src="/Nilabh-Blogs/assets/images/langrens_pamphlet_first_visualisation.png" alt="Opening text page of van Langren's pamphlet with his graph at the foot of the page">
-  <figcaption>*Opening text page of van Langren\'s pamphlet with his graph at the foot of the page. From the digital facsimile of the copy in the Newberry Library, Chicago.*</figcaption>
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">Opening text page of van Langren\'s pamphlet with his graph at the foot of the page. From the digital facsimile of the copy in the Newberry Library, Chicago.</figcaption>
 </figure>
 
 ### The Renaissance: A Period of Exploration and Discovery
@@ -275,7 +275,7 @@ to describe how to read and understand them.
 <figure>
   <img src="/Nilabh-Blogs/assets/images/first_plots_linebarpie.png" alt="The line chart and bar chart first appeared in 1786, and the pie chart
 and circle graph in 1801">
-  <figcaption>*The line chart and bar chart first appeared in 1786, and the pie chart and circle graph in 1801*</figcaption>
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">The line chart and bar chart first appeared in 1786, and the pie chart and circle graph in 1801</figcaption>
 </figure>
 
 The best-known example of Playfair\'s work is his comparison of the
@@ -284,7 +284,7 @@ and the average pay of workers.
 <figure>
   <img src="/Nilabh-Blogs/assets/images/playfair-comparison-of-price-of-wheat-to-wages.png" alt="The line chart and bar chart first appeared in 1786, and the pie chart
 and circle graph in 1801">
-  <figcaption>*Playfair\'s comparison of the price of wheat to wages*</figcaption>
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">Playfair\'s comparison of the price of wheat to wages</figcaption>
 </figure>
 
 
@@ -365,7 +365,7 @@ of how visualization can solve complex problems.
 
 <figure>
   <img src="/Nilabh-Blogs/assets/images/Snow-cholera-map.jpg" alt="Snow-cholera-map">
-  <figcaption>*Dr. John Snow's hand-drawn cholera map*</figcaption>
+  <figcaption  style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">Dr. John Snow's hand-drawn cholera map</figcaption>
 </figure>
 
 
@@ -402,7 +402,7 @@ visually demonstrated the impact of unsanitary conditions on the health
 of soldiers, which was her primary concern.
 <figure>
   <img src="/Nilabh-Blogs/assets/images/Nightingale-mortality.jpg" alt="the rose diagram by nightangel">
-  <figcaption>*The rose diagram by Nightingale depicting mortality*</figcaption>
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">The rose diagram by Nightingale depicting mortality</figcaption>
 </figure>
 
 ### 20th Century: Computers Usher in a New Era
@@ -513,7 +513,7 @@ backed by data, about the environment.
 <figure>
   <img src="/Nilabh-Blogs/assets/images/global-deforestation-1700s.png" alt="Juxtapose a painting of a forest with a bar
 graph indicating decreasing forest cover over the years">
-  <figcaption>*Deforestation and Forest Loss by author Hannah Ritchie*</figcaption>
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">Deforestation and Forest Loss by author Hannah Ritchie</figcaption>
 </figure>
 
 ### Data Visualization: A Symphony of Numbers and Art
@@ -557,7 +557,7 @@ a straightforward, tragic story of a dwindling army facing harsh winter
 conditions.
 <figure>
   <img src="/Nilabh-Blogs/assets/images/Napoleon_army_by_Minard.png" alt="Napoleon's Army by Minard">
-  <figcaption>*Napoleon's Army by Minard*</figcaption>
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;text-align: center;">Napoleon's Army by Minard</figcaption>
 </figure>
 
 ### How Is Data Visualization Different from Other Visualisations?
