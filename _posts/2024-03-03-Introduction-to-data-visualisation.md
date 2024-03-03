@@ -14,9 +14,9 @@ hidden: true
 
 # Why Do We Need to Visualize the Data?
 
-*\"The simple act of visualizing data, even in the brain, makes a
-difference to how we interpret and understand it.\"* - David McCandless,
-author of \"Information is Beautiful\".
+>The simple act of visualizing data, even in the brain, makes a
+difference to how we interpret and understand it.
+> - David McCandless, author of \"Information is Beautiful\".
 
 ## Why Do We Need to Visualize the Data?
 In a bustling marketplace in ancient Rome, merchants called out the
