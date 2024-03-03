@@ -47,7 +47,7 @@ process, and act upon efficiently.
 
 <figure>
   <img src="/Nilabh-Blogs/assets/images/paper_vs_tab_dall_e.png" alt="Spreadsheet vs Visuals HTML">
-  <figcaption>Image Created by the author using DALL·E 3.</figcaption>
+  <figcaption style="font-family: Arial, sans-serif; font-size: 0.9em;">Image Created by the author using DALL·E 3.</figcaption>
 </figure>
 
 Let me take you to an imaginary but picturesque town of Eldoria, nestled
@@ -237,7 +237,7 @@ visualization. It illustrates the distribution of geological resources
 with quarrying information.
 
 <figure>
-  <img src="https://commons.wikimedia.org/wiki/File:TurinPapyrus1.jpg" alt="Ancient Egyptian gods and hieroglyphs in wall painting">
+  <img src="/Nilabh-Blogs/assets/images/TurinPapyrus1.jpg" alt="Ancient Egyptian gods and hieroglyphs in wall painting">
   <figcaption>*Fragments of Turin papyrus - an ancient Egyptian mining map (left half) for Ramesses IV's quarrying expedition, 12th century BC (New Kingdom). Source: Photograph at the Turin Museum courtesy of J. Harrell*</figcaption>
 </figure>
 
@@ -511,7 +511,7 @@ comparing deforestation rates across decades tells a specific story,
 backed by data, about the environment.
 
 <figure>
-  <img src="/Nilabh-Blogs/assets/images/Nightingale-mortality.jpg" alt="Juxtapose a painting of a forest with a bar
+  <img src="/Nilabh-Blogs/assets/images/global-deforestation-1700s.png" alt="Juxtapose a painting of a forest with a bar
 graph indicating decreasing forest cover over the years">
   <figcaption>*Deforestation and Forest Loss by author Hannah Ritchie*</figcaption>
 </figure>
