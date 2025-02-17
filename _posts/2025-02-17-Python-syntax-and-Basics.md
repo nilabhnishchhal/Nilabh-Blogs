@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Course for Beginners"
+title: "Python Course for Beginners new"
 author: Nilabh
 date: 2025-02-18
 categories: [ Python, Visualization, Data ]
