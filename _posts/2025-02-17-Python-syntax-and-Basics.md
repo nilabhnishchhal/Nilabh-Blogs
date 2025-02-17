@@ -1,3 +1,16 @@
+---
+layout: post
+title: "Python Course for Beginners"
+author: Nilabh
+date: 2025-02-18
+categories: [ Python, Visualization, Data ]
+tags: [python, visualization, data]
+image: assets/images/Python_Programming_Basics.png
+description: "Python Course for beginners who have data or coding background. Quick recap course."
+featured: true
+hidden: true
+---
+
 # Beginners Python
 
 ## Basic Python Syntax
