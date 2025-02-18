@@ -209,7 +209,7 @@ As Alice continues her journey in the mystical DataLand, she learns to control t
 
 ### If-Else Statements: Choosing Paths
 
-![Flowchart of If-Else Statement](flowcharts-if_else_flowchart.jpg)
+![Flowchart of If-Else Statement](/Nilabh-Blogs/assets/images/flowcharts-if_else_flowchart.jpg)
 
 In DataLand, Alice often encounters crossroads where she must make choices. In Python, we use if-else statements to make decisions.
 
@@ -227,7 +227,7 @@ Here, if the `magic_number` is greater than 5, Alice takes one path; otherwise, 
 
 ### For Loops: Repeating Adventures
 
-![Flowchart of for Loop](flowcharts-for_loop.jpg)
+![Flowchart of for Loop](/Nilabh-Blogs/assets/images/flowcharts-for_loop.jpg)
 
 Sometimes, Alice likes to visit every house in the village. In Python, we use `for` loops to repeat actions.
 
@@ -241,7 +241,7 @@ This loop helps Alice visit houses numbered from 1 to 5, one after the other.
 
 ### While Loops: Continuing Until
 
-![Flowchart of while Loop](flowcharts-while_loop.jpg)
+![Flowchart of while Loop](/Nilabh-Blogs/assets/images/flowcharts-while_loop.jpg)
 
 In some parts of DataLand, Alice walks through a forest until she finds a river. In Python, this is like a while loop, where we continue doing something until a condition is met.
 
@@ -690,7 +690,7 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![png](/Nilabh-Blogs/assets/images/output_14_0.png)
     
 
 
@@ -715,7 +715,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![png](/Nilabh-Blogs/assets/images/output_16_0.png)
     
 
 
@@ -740,7 +740,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](/Nilabh-Blogs/assets/images/output_18_0.png)
     
 
 
@@ -763,7 +763,7 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![png](/Nilabh-Blogs/assets/images/output_20_0.png)
     
 
 
@@ -831,7 +831,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](/Nilabh-Blogs/assets/images/output_25_0.png)
     
 
 
@@ -853,7 +853,7 @@ plt.show()
 
 
     
-![png](output_27_0.png)
+![png](/Nilabh-Blogs/assets/images/output_27_0.png)
     
 
 
@@ -882,7 +882,7 @@ plt.show()
 
 
     
-![png](output_29_0.png)
+![png](/Nilabh-Blogs/assets/images/output_29_0.png)
     
 
 
@@ -918,7 +918,7 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![png](/Nilabh-Blogs/assets/images/output_32_0.png)
     
 
 
