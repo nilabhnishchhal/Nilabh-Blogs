@@ -1,0 +1,20 @@
+// Data Types Diagram
+digraph {
+	Data [label=Data]
+	Qual [label="Qualitative (Categorical)"]
+	Quant [label="Quantitative (Numerical)"]
+	Ord [label="Ordinal (Ordered)"]
+	Nom [label="Nominal (Unordered)"]
+	Cont [label=Continuous]
+	Disc [label=Discrete]
+	Interval [label="Interval (No True Zero)"]
+	Ratio [label="Ratio (True Zero)"]
+	Data -> Qual
+	Data -> Quant
+	Qual -> Ord
+	Qual -> Nom
+	Quant -> Cont
+	Quant -> Disc
+	Cont -> Interval
+	Cont -> Ratio
+}
