@@ -361,6 +361,7 @@ In Pythonic terms, `ndarrays` are sequence type of data types. They are similar 
 3. **Object**  
    - `object`  
    - A catch-all type for **text** (strings) or **mixed** data.  
+   
    ```python
    import pandas as pd
 
