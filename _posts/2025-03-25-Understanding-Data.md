@@ -407,7 +407,7 @@ In Pythonic terms, `ndarrays` are sequence type of data types. They are similar 
 
 ---
 
-## **Example: Checking and Converting dtypes in pandas**
+**Example: Checking and Converting dtypes in pandas**
 
 ```python
 import pandas as pd
@@ -440,7 +440,7 @@ By converting `Registered_On` to `datetime64[ns]`, plotting libraries can **auto
 
 ---
 
-## **Linking Types of Data (Conceptual) to NumPy/pandas dtypes**
+### **Linking Types of Data (Conceptual) to NumPy/pandas dtypes**
 
 Below is a **reference table** linking **statistical/data-analysis concepts** to **common NumPy/pandas dtypes**. Keep in mind that the interpretation (e.g., Interval vs. Ratio) isn’t enforced by the library—it’s about how you **use** the data.
 
